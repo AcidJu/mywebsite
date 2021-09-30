@@ -1,0 +1,133 @@
+
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+
+}
+
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+
+}
+h3{
+  color: #11999E
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+  font-size: 40px;
+  padding: 20px 0;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.cloud1{
+  position: absolute;
+right: 250px;
+top: 50px;
+}
+.cloud2{
+  position: absolute;
+left:300px;
+top: 250px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.devpic {
+  height: 350px;
+  width: auto;
+  filter: grayscale(85%);  
+}
+
+.profilepic {
+  height: 200px;
+  width: auto;
+}
+
+.massagepic{
+  height: 200px;
+  width: auto;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.matrixpic{
+  height: 200px;
+  background-color: #11999E;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.footer-link{
+  color: #11999E;
+}
+
+.hob-row{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+
+.massagetitle{
+  color: #11999E;
+}
+.copyright{
+  color: #EAF6F6;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
